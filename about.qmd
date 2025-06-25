@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+About this site
+
+Look, I can do math:
+
+```{r}
+1 + 1
+```
