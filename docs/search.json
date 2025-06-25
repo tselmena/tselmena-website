@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\nLook, I can do math:\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "For adding projects"
   }
 ]
